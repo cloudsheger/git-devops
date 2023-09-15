@@ -9,4 +9,5 @@ chmod +x install_docker.sh
 
 ./install_docker.sh
 
-```
+```git remote add helper-folder https://github.com/shegerlab-guru/helper-folder.git
+git push --set-upstream helper-folder master
